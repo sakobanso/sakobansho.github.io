@@ -25,7 +25,7 @@
       // Código secreto
       if (resultado === 12343) {
         // Mostrar imagen
-        contenedorImagen.innerHTML = `<img src="./imagenes/gato-xd.gif" alt="Código secreto" style="max-width: 200px;">`;
+        contenedorImagen.innerHTML = `<img src="./gato-xd.gif" alt="Código secreto" style="max-width: 200px;">`;
         
         // Reproducir audio
         audioSecreto.currentTime = 0; // Reiniciar audio
